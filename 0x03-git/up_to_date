@@ -8,3 +8,4 @@ git commit -m "<message>"
 git push origin
 git branch <branch name>
 git diff <file name>
+git pull 
